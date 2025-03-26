@@ -1,4 +1,4 @@
-## [0.1.2] - 2025-03-25
+## [0.1.1] - 2025-03-25
 ### Added
 - Integrated PrimeReact with Next.js.
 - Added PrimeReactProvider to `layout.js`.
