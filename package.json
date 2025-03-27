@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "next": "15.2.2",
+    "prettier": "^3.5.3",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.3",
     "react": "^19.0.0",
