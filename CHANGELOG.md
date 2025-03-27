@@ -1,3 +1,7 @@
+## [0.1.3] - 2015-03-24 
+### Added 
+- Typescript config file.
+
 ## [0.1.2] - 2025-03-27
 ### Added
 - Added and configured Jest test for component functionality.
