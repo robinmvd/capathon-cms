@@ -1,3 +1,7 @@
+## [0.1.2] - 2025-03-27
+### Added
+- Added and configured Jest test for component functionality.
+
 ## [0.1.1] - 2025-03-25
 ### Added
 - Integrated PrimeReact with Next.js.
